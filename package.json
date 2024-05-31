@@ -1,4 +1,9 @@
 {
+  "name": "sample-webapp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.19.2"
   }
